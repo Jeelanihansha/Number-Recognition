@@ -21,3 +21,9 @@ Confusion Matrix: The confusion matrix provides insights into how well the model
 Sample Predictions: The displayed sample images, along with their true labels and predicted labels, give a visual understanding of the model's performance. It allows you to see instances where the model succeeded or failed in making accurate predictions.
 Data Visualization: The code includes visualization components that enable a better understanding of the dataset, model performance, and predictions.
 Model Iterations: The code showcases iterative training with multiple epochs. Typically, models benefit from more training epochs, but there's a risk of overfitting if not monitored closely.
+Colab Benefits
+Cloud-Based: Google Colab provides free cloud-based access to Jupyter notebooks with GPU support, making it ideal for data science and machine learning projects.
+
+Collaboration: You can easily share your Colab notebooks with others, allowing for seamless collaboration.
+
+Resource Availability: Colab offers free access to GPUs and TPUs, enabling faster model training without the need for expensive hardware.
